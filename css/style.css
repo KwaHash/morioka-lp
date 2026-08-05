@@ -237,7 +237,7 @@ button { font: inherit; }
   background-color: #7fa8c9;
   background-image:
     linear-gradient(180deg, rgba(20, 45, 25, .30) 0%, rgba(20, 45, 25, .55) 100%),
-    url("../images/hero.jpg"),
+    url("../images/hero.png"),
     linear-gradient(180deg, #9fc4e0 0%, #cfe3ef 42%, #8fae76 62%, #5c8348 100%);
   background-size: cover;
   background-position: center;
